@@ -32,4 +32,3 @@ $a_4 = \frac{e^{z_4}}{e^{z_1} + e^{z_2} + e^{z_3} + e^{z_4}} = P(x = 4|\vec x)$
 |loss|$-y\log(a) + (1-y)\log(a)$|
 
 ![alt text](image-11.png)
-
