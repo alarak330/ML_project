@@ -32,3 +32,10 @@ $a_4 = \frac{e^{z_4}}{e^{z_1} + e^{z_2} + e^{z_3} + e^{z_4}} = P(x = 4|\vec x)$
 |loss|$-y\log(a) + (1-y)\log(a)$|
 
 ![alt text](image-11.png)
+
+## Multi-label Classification
+![alt text](image-13.png)
+there have three Features your model should study
+you can use three Machine Learning program to train three model,but **Alternatively**, train one neural
+network with three outputs 
+![alt text](image-14.png)
