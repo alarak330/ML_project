@@ -45,8 +45,19 @@ let start with the example of setting lambda to be very large value, say lambda 
 
 ![alt text]({C037AFF9-9CB8-4FC2-BE9F-F3360CBB4F29}.png)
 
-#
+# Establishing a baseline level of performance
 这块就用中文简单说明一下，简单来说使用一个基准值来评估模型是很重要的，（比如声音数据在人类的表现中也会有很大的噪音数据这就会导致人类也会有比较高的偏差）
 ![alt text]({50D3F22E-6A4B-4B98-A449-0FF3BDEBD5CA}.png)
 ![alt text]({0F4FE53A-FD38-4E58-87F8-B692C1DC6205}.png)
 上图就能看出来哪些是具有高偏差的数据
+
+# Learning Curve
+Learning curves are a way to help understand how your learning algotithm is doing as a function of the amount of experience.
+![alt text]({5D04C863-85FC-442A-8A80-3A2D9B96E523}.png)
+![q]({4EB9ABD8-8B40-42DA-A04C-5B7DC999541C}.png)
+
+If a learning algorithm suffers from high variance, getting more training data is likely to help.
+
+# Debugging a learning algorithm 
+![alt text]({21A4C895-02EC-4CE4-8F2B-03065FF66930}.png)
+
